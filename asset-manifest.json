@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RoboDex/static/css/main.8e777b7a.chunk.css",
+    "main.js": "/RoboDex/static/js/main.512ba825.chunk.js",
+    "main.js.map": "/RoboDex/static/js/main.512ba825.chunk.js.map",
+    "runtime-main.js": "/RoboDex/static/js/runtime-main.7bb3053e.js",
+    "runtime-main.js.map": "/RoboDex/static/js/runtime-main.7bb3053e.js.map",
+    "static/js/2.95db7018.chunk.js": "/RoboDex/static/js/2.95db7018.chunk.js",
+    "static/js/2.95db7018.chunk.js.map": "/RoboDex/static/js/2.95db7018.chunk.js.map",
+    "static/js/3.e6e4278b.chunk.js": "/RoboDex/static/js/3.e6e4278b.chunk.js",
+    "static/js/3.e6e4278b.chunk.js.map": "/RoboDex/static/js/3.e6e4278b.chunk.js.map",
+    "index.html": "/RoboDex/index.html",
+    "static/css/main.8e777b7a.chunk.css.map": "/RoboDex/static/css/main.8e777b7a.chunk.css.map",
+    "static/js/2.95db7018.chunk.js.LICENSE.txt": "/RoboDex/static/js/2.95db7018.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bb3053e.js",
+    "static/js/2.95db7018.chunk.js",
+    "static/css/main.8e777b7a.chunk.css",
+    "static/js/main.512ba825.chunk.js"
+  ]
+}
