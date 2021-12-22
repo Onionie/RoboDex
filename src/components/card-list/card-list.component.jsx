@@ -8,7 +8,12 @@ export const CardList = (props) => {
   return (
     <div className="card-list">
       {props.robots.map((robots) => (
-        <Card key={robots.id} id={robots.id} robots={robots}></Card>
+        <Card
+          key={robots.id}
+          id={robots.id}
+          name={robots.name}
+          email={robots.email}
+        ></Card>
       ))}
     </div>
   );
