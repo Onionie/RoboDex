@@ -31,6 +31,7 @@ class App extends Component {
     );
     return (
       <div className="App">
+        <h1>RoboDex</h1>
         <SearchBox
           placeholder="Search Robots"
           handleChange={this.handleChange}
