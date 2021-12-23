@@ -15,4 +15,4 @@ https://onionie.github.io/RoboDex/
 
 ## Screenshot
 
-<img src = "https://github.com/Onionie/RoboDex/tree/main/public">
+<img src = "https://github.com/Onionie/RoboDex/blob/main/public/1.PNG">
